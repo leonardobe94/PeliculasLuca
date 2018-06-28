@@ -6,6 +6,7 @@ public class Ma {
 		System.out.println("as");
 		System.out.println("");
 		System.out.println("ueyyyy");
+		System.out.println("eyyyy");
 	}
 
 }
